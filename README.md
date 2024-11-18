@@ -1,4 +1,3 @@
-Here’s a **README.md** file for your Password Generator project:  
 
 ---
 
